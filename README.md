@@ -20,7 +20,11 @@ Réalisation:
 
 Chaque projet est inspiré de situations et besoins réels, mais ne fera pas l'objet d'une remise à un client "réel" (ou peut-être que si, on verra). Ce client sera interprété par un membre du staff de BeCode.
 
-[comité de quartier XL-Nord: www.xl-nord.be](http://www.xl-nord.be/pages/accueil.html "Lien du site comité de quartier XL-Nord")
+[Comité de quartier XL-Nord: www.xl-nord.be](http://www.xl-nord.be/pages/accueil.html "Lien du site comité de quartier XL-Nord")
+
+Matériels:  
+[Template "Lens": HTML5UP](https://html5up.net/ "Lien pour télécharger des templates sur HTML5UP")  
+[Photos: Ixelles](https://www.google.be/search?q=ixelles&client=ubuntu&channel=fs&dcr=0&tbm=isch&source=lnt&tbs=sur:fmc&sa=X&ved=0ahUKEwirroHYyrbZAhUW1mMKHbAhDCcQpwUIHw&biw=1265&bih=569&dpr=1#imgrc=_ "Google images (ixelles)")   
 
 <!-- 
 <http://www.google.com>

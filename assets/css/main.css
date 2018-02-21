@@ -1240,3 +1240,11 @@
 				}
 
 		}
+.go{
+  background-color: #0580ff;
+  color: #ccccff;
+}
+.go:hover{
+    background-color: #00254b;
+  color: #ccccff;
+}

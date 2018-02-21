@@ -1,0 +1,117 @@
+html, body {
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(51, 56, 64);
+}
+
+
+h3 {
+  font-family: 'Baumans', cursive;
+  font-size: 21px;
+  color: rgb(213, 0, 0);
+}
+
+.noir {
+  background-color: rgb(24, 25, 27);
+}
+
+.fonce {
+  background-color: rgb(51, 56, 64);
+}
+
+.moyen {
+  background-color: rgb(147, 156, 171);
+}
+
+.clair {
+  background-color: rgb(219, 219, 223);
+}
+
+.blanc {
+  background-color: rgb(255, 255, 255);
+}
+
+.blanc-30 {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.rouge {
+  background-color: rgb(213, 0, 0)
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.content {
+  width: 90%;
+  max-width: 1200px;
+  min-width: 460px;
+}
+
+.full {
+  width: 100%;
+  justify-content: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.bg-img {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.col_25 {
+  width: 25%;
+}
+
+.col_30 {
+  width: 33%;
+  text-align: center;
+}
+a {
+  font-family: Arial;
+  font-size: 14px;
+    color: white;
+  text-decoration: none;
+}
+.col_50 {
+  width: 50%;
+}
+
+.col_fin {
+  display: flex;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+.icone-fontawesome{
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #cccccc;
+}
+.logo {
+  font-size: 2em;
+  font-weight: bold;
+  color: white;
+}
+.red {
+  color: rgb(255, 65, 65);
+}

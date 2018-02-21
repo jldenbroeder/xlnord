@@ -23,8 +23,12 @@ Chaque projet est inspiré de situations et besoins réels, mais ne fera pas l'o
 [Comité de quartier XL-Nord: www.xl-nord.be](http://www.xl-nord.be/pages/accueil.html "Lien du site comité de quartier XL-Nord")
 
 Matériels:  
-[Template "Lens": HTML5UP](https://html5up.net/ "Lien pour télécharger des templates sur HTML5UP")  
-[Photos: Ixelles](https://www.google.be/search?q=ixelles&client=ubuntu&channel=fs&dcr=0&tbm=isch&source=lnt&tbs=sur:fmc&sa=X&ved=0ahUKEwirroHYyrbZAhUW1mMKHbAhDCcQpwUIHw&biw=1265&bih=569&dpr=1#imgrc=_ "Google images (ixelles)")   
+[Template "Lens": HTML5UP](https://html5up.net/lens "Lien pour télécharger le template Lens sur HTML5UP")  
+[Template "Zerofour": HTML5UP](https://html5up.net/zerofour "Lien pour télécharger le template Zerofour sur HTML5UP")   
+[Photos: Ixelles](https://www.google.be/search?q=ixelles&client=ubuntu&channel=fs&dcr=0&tbm=isch&source=lnt&tbs=sur:fmc&sa=X&ved=0ahUKEwirroHYyrbZAhUW1mMKHbAhDCcQpwUIHw&biw=1265&bih=569&dpr=1#imgrc=_ "Google images (ixelles)")  
+[Texte de Wikipedia: Ixelles](https://fr.wikipedia.org/wiki/Ixelles "Lien sur Wikipedia: Ixelles")
+
+Mots clés pour Google Images: ixelles, ixelles quarier, ixelles solvay, ixelles fete,...
 
 <!-- 
 <http://www.google.com>

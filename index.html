@@ -17,6 +17,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
   </head>
   <body class="homepage">
     <div id="page-wrapper">
+   <a name="haut" id="haut"></a>
 
       <!-- Header -->
       <div id="header-wrapper">
@@ -46,7 +47,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
                   </li>
                   <li><a href="#actualite">Actualités</a></li>
                   <li><a href="#rejoignez">Rejoignez-nous</a></li>
-                  <li><a href="no-sidebar.html">No Sidebar</a></li>
+<!--                  <li><a href="no-sidebar.html">No Sidebar</a></li>-->
                 </ul>
               </nav>
 
@@ -299,6 +300,13 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
     <script src="assets/js/util.js"></script>
     <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
     <script src="assets/js/main.js"></script>
-
+<!--    <div><a id="cRetour" class="cInvisible" href="#haut"></a></div>-->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        window.onscroll = function(ev) {
+          document.getElementById("cRetour").className = (window.pageYOffset > 100) ? "cVisible" : "cInvisible";
+        };
+      });
+    </script>
   </body>
 </html>
